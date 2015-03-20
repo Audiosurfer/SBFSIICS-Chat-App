@@ -15,6 +15,8 @@ FORMAT:
 	12:00 pm
 	user2: Hello.
 	user1: What took so long?
+-Message History
+	Past messages remain in the chat app window and are viewable via a scroll bar.
 -List members in the room (optional) 
 	Kiana, Gabe, Morgan, Kolbe
 	Morgan: Hey
