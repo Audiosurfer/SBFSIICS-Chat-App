@@ -1,0 +1,43 @@
+CHAT APP
+
+USE CASE
+
+-type word/phrase -> in chat
+FORMAT: 
+-user + message
+	user: I typed this.
+- order = chronological
+	user1: Hi.
+	user2: Hello.
+-Time Stamp (optional)
+	11:50 am
+	user1: Hi.
+	12:00 pm
+	user2: Hello.
+	user1: What took so long?
+-List members in the room (optional) 
+	Kiana, Gabe, Morgan, Kolbe
+	Morgan: Hey
+	Kiana: Hey
+- highlight (gives an alert when user screenname is mentioned)
+-Typing ... (optional)
+-Invite people to chat (optional)
+-Status (online, offline, etc.) (optional) (color)
+-Emojis (optional)
+
+
+-Set font and color
+-type in a type box
+-press enter -> message in chat
+-max characters per line (depends on length of window)
+-design box
+
+JOBS
+Morgan: design
+Kiana: design 
+Gabe:
+Kolbe:
+
+
+
+
