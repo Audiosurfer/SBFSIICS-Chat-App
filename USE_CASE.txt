@@ -37,8 +37,8 @@ FORMAT:
 JOBS
 Morgan: design
 Kiana: design 
-Gabe:
-Kolbe:
+Gabe: GitHub Consultant
+Kolbe: Dead weight...jk
 
 
 
